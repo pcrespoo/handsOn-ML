@@ -7,4 +7,5 @@ This repo is comprised of studies developed while reading the Hands-on Machine L
 - Support Vector Machines: contains implementation of Support Vector Machine for classification and regression tasks
 - Decision trees: contains implementation of Decision Trees for classification and regression 
 - Ensemble Learning: brings concepts like voting classifier, bagging, pasting, boosting and stacking
-- Dimensionality Reduction:  contains implementation of PCA 
+- Dimensionality Reduction:  contains implementation of PCA
+- Clustering:  contains implementation of important techniques such as KMeans and DBSCAN 
